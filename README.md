@@ -51,7 +51,7 @@ _\* is note required, but would be a big bonus for you._
 12. Typing status. (\*)
 13. Message input expand/collapse animation (\*\*)
 
-_\* is note required, but each of this tasks would be a big bonus you._
+_\* is note required, but each of this tasks would be a big bonus for you._
 
 _\*\* SUPER BONUS!!!_
 
@@ -63,7 +63,7 @@ _\*\* SUPER BONUS!!!_
 4. Implement block user action with some ux/ui. (\*)
 5. Implement delete chat action with some ux for it. (\*)
 
-_\* is note required, but each of this tasks would be a big bonus you._
+_\* is note required, but each of this tasks would be a big bonus for you._
 
 ## YOU ARE DEFINITELY OUR PERSON IF YOU WILL:
 
