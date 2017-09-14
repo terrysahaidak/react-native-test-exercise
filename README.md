@@ -1,5 +1,5 @@
 # React native candidats test exercise
-> by Terry Sahaidak ((terry@sahaidak.com)[terry@sahaidak.com])
+> by Terry Sahaidak ([terry@sahaidak.com](terry@sahaidak.com))
 --------
 
 ### Requirements for development environment
@@ -32,7 +32,7 @@ You should build a chat application with the following screens:
 4. After long tap it shows pop-up with delete action.
 5. We should be able to filter all chats by texting user name. (\*)
 
-\* is note required, but would be a big bonus for you.
+_\* is note required, but would be a big bonus for you._
 
 ### Chat screen requirements
 
@@ -51,8 +51,9 @@ You should build a chat application with the following screens:
 12. Typing status. (\*)
 13. Message input expand/collapse animation (\*\*)
 
-\* is note required, but each of this tasks would be a big bonus you.
-\*\* SUPER BONUS!!!
+_\* is note required, but each of this tasks would be a big bonus you._
+
+_\*\* SUPER BONUS!!!_
 
 ### User screen requirements
 
@@ -62,7 +63,7 @@ You should build a chat application with the following screens:
 4. Implement block user action with some ux/ui. (\*)
 5. Implement delete chat action with some ux for it. (\*)
 
-\* is note required, but each of this tasks would be a big bonus you.
+_\* is note required, but each of this tasks would be a big bonus you._
 
 ## YOU ARE DEFINITELY OUR PERSON IF YOU WILL:
 
